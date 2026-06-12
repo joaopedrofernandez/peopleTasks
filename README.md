@@ -7,12 +7,20 @@
 ```bash
 git clone https://github.com/joaopedrofernandez/peopleTasks.git
 
+cd peopleTasks
+
 composer install
 
 cp .env.example .env
 
 php artisan migrate
 ```
+
+**O banco não vira populado então rodar o comando**
+```bash
+php artisan db:seed
+```
+
 
 **Indicação⬇️⬇️⬇️**
 ```bash
@@ -34,7 +42,7 @@ Segue o passo a passo abaixo ⬇️⬇️⬇️
 
 **Documentação do CRUD completo de People e Tasks**
 
-<a href="https://documenter.getpostman.com/view/54299457/2sBXwqsAyq" target="_blank">Link documentação postman</a>
+<a href="https://documenter.getpostman.com/view/54299457/2sBXwqsAyq" target="_blank">Link documentação postman para Pessoas</a>
 
 ##
 
@@ -47,7 +55,7 @@ Segue o passo a passo abaixo ⬇️⬇️⬇️
 
 **Documentação completa das ações da tabela pivot**
 
-<a href="https://documenter.getpostman.com/view/54299457/2sBXwsLqAJ" target="_blank">Link documentação postman</a>
+<a href="https://documenter.getpostman.com/view/54299457/2sBXwsLqAJ" target="_blank">Link documentação postman para tarefas</a>
 
 ##
 
