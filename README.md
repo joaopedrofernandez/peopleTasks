@@ -16,7 +16,7 @@ cp .env.example .env
 php artisan migrate
 ```
 
-**O banco não vira populado então rodar o comando**
+**O banco não vira populado e com as tarefas distribuidas então rodar o comando**
 ```bash
 php artisan db:seed
 ```
