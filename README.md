@@ -14,7 +14,7 @@ Segue o passo a passo abaixo ⬇️⬇️⬇️
 
 **Documentação do CRUD completo de People e Tasks**
 
-Link: https://documenter.getpostman.com/view/54299457/2sBXwqsAyq
+Link: <a href=" https://documenter.getpostman.com/view/54299457/2sBXwqsAyq" target="_blank"> </a>
 
 ##
 
