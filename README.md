@@ -14,7 +14,7 @@ Segue o passo a passo abaixo ⬇️⬇️⬇️
 
 **Documentação do CRUD completo de People e Tasks**
 
-<a href="https://documenter.getpostman.com/view/54299457/2sBXwqsAyq" target="_blank">Link documentação</a>
+<a href="https://documenter.getpostman.com/view/54299457/2sBXwqsAyq" target="_blank">Link documentação postman</a>
 
 ##
 
@@ -27,7 +27,7 @@ Segue o passo a passo abaixo ⬇️⬇️⬇️
 
 **Documentação completa das ações da tabela pivot**
 
-<a href="https://documenter.getpostman.com/view/54299457/2sBXwsLqAJ" target="_blank">Link documentação</a>
+<a href="https://documenter.getpostman.com/view/54299457/2sBXwsLqAJ" target="_blank">Link documentação postman</a>
 
 ##
 
